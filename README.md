@@ -200,9 +200,9 @@ Contributions make the open source community amazing! Any improvements are **gre
 
 <div align="center">
 
-| Physical Build | Wokwi Simulation |
-|:--------------:|:----------------:|
-| 🔨 Coming soon | 🖥️ [Try it now](https://wokwi.com/) |
+<img src="assets/img1.png" alt="Project Build" width="600"/>
+
+*Physical build and circuit layout*
 
 </div>
 
@@ -226,5 +226,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
+**Made with ❤️ and Arduino**
+
+*From concept to creation - building the future one LED at a time*
 
 </div>
